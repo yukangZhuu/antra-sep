@@ -14,4 +14,15 @@ public class InstructorService: PersonService, IInstructorService
     {
         return instructor.CalculateSalary();
     }
+    
+    public List<String> GetInstructorList()
+    {
+        List<String> result = new List<string>();
+        foreach (var p in people)
+        {
+            result.Add(p.Name);
+        }
+
+        return result;
+    }
 }

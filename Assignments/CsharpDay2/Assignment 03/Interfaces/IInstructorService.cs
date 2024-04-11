@@ -6,4 +6,5 @@ public interface IInstructorService: IPersonService
     void AssignToDepartment(Instructor instructor, Department department);
 
     public decimal CalculateInstructorSalary(Instructor instructor);
+    public List<String> GetInstructorList();
 }

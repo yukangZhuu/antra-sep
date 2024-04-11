@@ -4,7 +4,7 @@ using Assignment_03.Models;
 
 public class PersonService : IPersonService
 {
-    private List<Person> people = new List<Person>();
+    internal List<Person> people = new List<Person>();
 
     public void AddPerson(Person person)
     {

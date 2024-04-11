@@ -16,4 +16,20 @@ public class DepartmentService: IDepartmentService
         department.HeadInstructor = instructor;
         instructor.IsHead = true;
     }
+    
+    public Instructor getHeadOfDepartment(Department department)
+    {
+        return department.HeadInstructor;
+    }
+
+    public List<String> GetDepartmentList()
+    {
+        List<String> result = new List<string>();
+        foreach (var dep in departments)
+        {
+            result.Add(dep.Name);
+        }
+
+        return result;
+    }
 }

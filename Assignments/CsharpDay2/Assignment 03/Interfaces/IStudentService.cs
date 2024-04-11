@@ -4,5 +4,6 @@ using Assignment_03.Models;
 public interface IStudentService : IPersonService
 {
     public double CalculateStudentGPA(Student student);
+    public List<String> GetStudentList();
 }
 
