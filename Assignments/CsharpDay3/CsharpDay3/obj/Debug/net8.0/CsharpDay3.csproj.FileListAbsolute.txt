@@ -1,0 +1,14 @@
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\bin\Debug\net8.0\CsharpDay3.exe
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\bin\Debug\net8.0\CsharpDay3.deps.json
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\bin\Debug\net8.0\CsharpDay3.runtimeconfig.json
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\bin\Debug\net8.0\CsharpDay3.dll
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\bin\Debug\net8.0\CsharpDay3.pdb
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\obj\Debug\net8.0\CsharpDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\obj\Debug\net8.0\CsharpDay3.AssemblyInfoInputs.cache
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\obj\Debug\net8.0\CsharpDay3.AssemblyInfo.cs
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\obj\Debug\net8.0\CsharpDay3.csproj.CoreCompileInputs.cache
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\obj\Debug\net8.0\CsharpDay3.dll
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\obj\Debug\net8.0\refint\CsharpDay3.dll
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\obj\Debug\net8.0\CsharpDay3.pdb
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\obj\Debug\net8.0\CsharpDay3.genruntimeconfig.cache
+C:\Users\Yukang\Documents\antra SEP\CsharpDay3\CsharpDay3\obj\Debug\net8.0\ref\CsharpDay3.dll
